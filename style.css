@@ -1,0 +1,112 @@
+h1{
+    font-family: 'Newsreader', serif;
+}
+#para{
+    font-size:18px;
+    font-family: 'PT Serif', serif;
+    
+
+}
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img {
+    width: 500px;
+    height:300px;
+    border-radius:100px;
+    border:5px solid silver;
+
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+#aqw{
+    height:450px;
+    width:950px;
+
+ 
+}
+#maq{
+ 
+    font-family: 'Roboto Slab', serif;
+    margin-bottom:40px;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+    height:300px;
+    width:1000px;
+    border:5px solid red;
+    border-style: ridge;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+#popo{
+    border:5px solid burlywood;
+    border-style: ridge;
+}
+#dior{
+    font-family: 'Lora', serif;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+#aqqqq{
+    border-radius:300px;
+    height:300px;
+
+}
+
